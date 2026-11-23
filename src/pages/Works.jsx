@@ -19,9 +19,9 @@ import social8 from "../assets/insta post/v.jpg";
 
 import businessCard1 from "../assets/Cards/1.JPG";
 import businessCard2 from "../assets/Cards/2.JPG";
-import businessCard3 from "../assets/Cards/3.jpg";
-import businessCard4 from "../assets/Cards/4.JPG";
-import businessCard5 from "../assets/Cards/5.JPG";
+import businessCard3 from "../assets/Cards/3.JPG";
+import businessCard4 from "../assets/Cards/4.jpg";
+import businessCard5 from "../assets/Cards/5.jpeg";
 
 import beforeAfter1 from "../assets/before After/1.jpg";
 import beforeAfter2 from "../assets/before After/2.jpg";
