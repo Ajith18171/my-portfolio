@@ -140,7 +140,7 @@ export default function PageShell({ children, navItems, currentPath, activeCateg
                 <a href="/" onClick={go({ path: "/" })} className="flex items-center gap-3">
                   <img src={logo} alt="Your Name logo" className="h-10 w-10 object-contain" />
                   <div>
-                    <p className="text-sm font-bold tracking-wide">Ajithkumar</p>
+                    <p className="text-sm font-bold tracking-wide">AJITHKUMAR.S</p>
                     <p className="text-[9px] uppercase tracking-[0.25em] text-white/40">
                       Photo & Video Editor
                     </p>
